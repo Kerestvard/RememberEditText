@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidRememberEditText</string>
+    <string name="clear">CLEAR</string>
+    <string name="enter_your_user_name">Enter your user name</string>
+    <string name="next">NEXT</string>
+    <string name="go_back">Go Back</string>
+</resources>
